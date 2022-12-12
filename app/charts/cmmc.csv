@@ -1,0 +1,29 @@
+﻿Review,Confidence,Notes,Control Group Name,Control Group Code,Level,Control Code,Practices Name,Assessment Objectives Order,Assessment Objectives
+FALSE,,,Audit and Accountability,AU,L2,3.3.1,SYSTEM AUDITING ,a,"Determine if audit logs needed (i.e., event types to be logged) to enable the monitoring, analysis, investigation, and reporting of unlawful or unauthorized system activity are specified;  "
+FALSE,,,Audit and Accountability,AU,L2,3.3.1,SYSTEM AUDITING ,b,"Determine if the content of audit records needed to support monitoring, analysis, investigation, and reporting of unlawful or unauthorized system activity is defined;  "
+FALSE,,,Audit and Accountability,AU,L2,3.3.1,SYSTEM AUDITING ,c,Determine if audit records are created (generated);  
+FALSE,,,Audit and Accountability,AU,L2,3.3.1,SYSTEM AUDITING ,d,"Determine if audit records, once created, contain the defined content;  "
+FALSE,,,Audit and Accountability,AU,L2,3.3.1,SYSTEM AUDITING ,e,Determine if retention requirements for audit records are defined; and  
+FALSE,,,Audit and Accountability,AU,L2,3.3.1,SYSTEM AUDITING ,f,Determine if audit records are retained as defined. 
+FALSE,,,Audit and Accountability,AU,L2,3.3.3,EVENT REVIEW ,a,Determine if a process for determining when to review logged events is defined;  
+FALSE,,,Audit and Accountability,AU,L2,3.3.3,EVENT REVIEW ,b,Determine if event types being logged are reviewed in accordance with the defined review process; and  
+FALSE,,,Audit and Accountability,AU,L2,3.3.3,EVENT REVIEW ,c,Determine if event types being logged are updated based on the review. 
+FALSE,,,Audit and Accountability,AU,L2,3.3.4,AUDIT FAILURE ALERTING ,a,Determine if personnel or roles to be alerted in the event of an audit logging process failure are identified;  
+FALSE,,,Audit and Accountability,AU,L2,3.3.4,AUDIT FAILURE ALERTING ,b,Determine if types of audit logging process failures for which alert will be generated are defined; and  
+FALSE,,,Audit and Accountability,AU,L2,3.3.4,AUDIT FAILURE ALERTING ,c,Determine if identified personnel or roles are alerted in the event of an audit logging process failure. 
+FALSE,,,Audit and Accountability,AU,L2,3.3.5,AUDIT CORRELATION ,a,"Determine if audit record review, analysis, and reporting processes for investigation and response to indications of unlawful, unauthorized, suspicious, or unusual activity are defined; and  "
+FALSE,,,Audit and Accountability,AU,L2,3.3.5,AUDIT CORRELATION ,b,"Determine if defined audit record review, analysis, and reporting processes are correlated. "
+FALSE,,,Audit and Accountability,AU,L2,3.3.6,REDUCTION & REPORTING ,a,Determine if an audit record reduction capability that supports on-demand analysis is provided; and  
+FALSE,,,Audit and Accountability,AU,L2,3.3.6,REDUCTION & REPORTING ,b,Determine if a report generation capability that supports on-demand reporting is provided. 
+FALSE,,,Audit and Accountability,AU,L2,3.3.7,AUTHORITATIVE TIME SOURCE ,a,Determine if internal system clocks are used to generate time stamps for audit records;  
+FALSE,,,Audit and Accountability,AU,L2,3.3.7,AUTHORITATIVE TIME SOURCE ,b,Determine if an authoritative source with which to compare and synchronize internal system clocks is specified; and  
+FALSE,,,Audit and Accountability,AU,L2,3.3.7,AUTHORITATIVE TIME SOURCE ,c,Determine if internal system clocks used to generate time stamps for audit records are compared to and synchronized with the specified authoritative time source. 
+FALSE,,,Audit and Accountability,AU,L2,3.3.8,AUDIT PROTECTION ,a,Determine if audit information is protected from unauthorized access;  
+FALSE,,,Audit and Accountability,AU,L2,3.3.8,AUDIT PROTECTION ,b,Determine if audit information is protected from unauthorized modification;  
+FALSE,,,Audit and Accountability,AU,L2,3.3.8,AUDIT PROTECTION ,c,Determine if audit information is protected from unauthorized deletion;  
+FALSE,,,Audit and Accountability,AU,L2,3.3.8,AUDIT PROTECTION ,d,Determine if audit logging tools are protected from unauthorized access;  
+FALSE,,,Audit and Accountability,AU,L2,3.3.8,AUDIT PROTECTION ,e,Determine if audit logging tools are protected from unauthorized modification; and  
+FALSE,,,Audit and Accountability,AU,L2,3.3.8,AUDIT PROTECTION ,f,Determine if audit logging tools are protected from unauthorized deletion. 
+FALSE,,,Audit and Accountability,AU,L2,3.3.9,AUDIT MANAGEMENT ,a,Determine if a subset of privileged users granted access to manage audit logging functionality is defined; and  
+FALSE,,,Audit and Accountability,AU,L2,3.3.9,AUDIT MANAGEMENT ,b,Determine if management of audit logging functionality is limited to the defined subset of privileged users. 
+,,,,,L1,,,,
