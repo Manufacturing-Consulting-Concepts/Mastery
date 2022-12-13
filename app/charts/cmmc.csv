@@ -1,29 +1,319 @@
 ﻿Review,Confidence,Notes,Control Group Name,Control Group Code,Level,Control Code,Practices Name,Assessment Objectives Order,Assessment Objectives
-FALSE,,,Audit and Accountability,AU,L2,3.3.1,SYSTEM AUDITING ,a,"Determine if audit logs needed (i.e., event types to be logged) to enable the monitoring, analysis, investigation, and reporting of unlawful or unauthorized system activity are specified;  "
-FALSE,,,Audit and Accountability,AU,L2,3.3.1,SYSTEM AUDITING ,b,"Determine if the content of audit records needed to support monitoring, analysis, investigation, and reporting of unlawful or unauthorized system activity is defined;  "
-FALSE,,,Audit and Accountability,AU,L2,3.3.1,SYSTEM AUDITING ,c,Determine if audit records are created (generated);  
-FALSE,,,Audit and Accountability,AU,L2,3.3.1,SYSTEM AUDITING ,d,"Determine if audit records, once created, contain the defined content;  "
-FALSE,,,Audit and Accountability,AU,L2,3.3.1,SYSTEM AUDITING ,e,Determine if retention requirements for audit records are defined; and  
+FALSE,,,Audit and Accountability,AU,L2,3.3.1,SYSTEM AUDITING ,a,"Determine if audit logs needed (i.e., event types to be logged) to enable the monitoring, analysis, investigation, and reporting of unlawful or unauthorized system activity are specified.  "
+FALSE,,,Audit and Accountability,AU,L2,3.3.1,SYSTEM AUDITING ,b,"Determine if the content of audit records needed to support monitoring, analysis, investigation, and reporting of unlawful or unauthorized system activity is defined.  "
+FALSE,,,Audit and Accountability,AU,L2,3.3.1,SYSTEM AUDITING ,c,Determine if audit records are created (generated).  
+FALSE,,,Audit and Accountability,AU,L2,3.3.1,SYSTEM AUDITING ,d,"Determine if audit records, once created, contain the defined content.  "
+FALSE,,,Audit and Accountability,AU,L2,3.3.1,SYSTEM AUDITING ,e,Determine if retention requirements for audit records are defined.  
 FALSE,,,Audit and Accountability,AU,L2,3.3.1,SYSTEM AUDITING ,f,Determine if audit records are retained as defined. 
-FALSE,,,Audit and Accountability,AU,L2,3.3.3,EVENT REVIEW ,a,Determine if a process for determining when to review logged events is defined;  
-FALSE,,,Audit and Accountability,AU,L2,3.3.3,EVENT REVIEW ,b,Determine if event types being logged are reviewed in accordance with the defined review process; and  
+FALSE,,,Audit and Accountability,AU,L2,3.3.3,EVENT REVIEW ,a,Determine if a process for determining when to review logged events is defined.  
+FALSE,,,Audit and Accountability,AU,L2,3.3.3,EVENT REVIEW ,b,Determine if event types being logged are reviewed in accordance with the defined review process.  
 FALSE,,,Audit and Accountability,AU,L2,3.3.3,EVENT REVIEW ,c,Determine if event types being logged are updated based on the review. 
-FALSE,,,Audit and Accountability,AU,L2,3.3.4,AUDIT FAILURE ALERTING ,a,Determine if personnel or roles to be alerted in the event of an audit logging process failure are identified;  
-FALSE,,,Audit and Accountability,AU,L2,3.3.4,AUDIT FAILURE ALERTING ,b,Determine if types of audit logging process failures for which alert will be generated are defined; and  
+FALSE,,,Audit and Accountability,AU,L2,3.3.4,AUDIT FAILURE ALERTING ,a,Determine if personnel or roles to be alerted in the event of an audit logging process failure are identified.  
+FALSE,,,Audit and Accountability,AU,L2,3.3.4,AUDIT FAILURE ALERTING ,b,Determine if types of audit logging process failures for which alert will be generated are defined.  
 FALSE,,,Audit and Accountability,AU,L2,3.3.4,AUDIT FAILURE ALERTING ,c,Determine if identified personnel or roles are alerted in the event of an audit logging process failure. 
-FALSE,,,Audit and Accountability,AU,L2,3.3.5,AUDIT CORRELATION ,a,"Determine if audit record review, analysis, and reporting processes for investigation and response to indications of unlawful, unauthorized, suspicious, or unusual activity are defined; and  "
+FALSE,,,Audit and Accountability,AU,L2,3.3.5,AUDIT CORRELATION ,a,"Determine if audit record review, analysis, and reporting processes for investigation and response to indications of unlawful, unauthorized, suspicious, or unusual activity are defined.  "
 FALSE,,,Audit and Accountability,AU,L2,3.3.5,AUDIT CORRELATION ,b,"Determine if defined audit record review, analysis, and reporting processes are correlated. "
-FALSE,,,Audit and Accountability,AU,L2,3.3.6,REDUCTION & REPORTING ,a,Determine if an audit record reduction capability that supports on-demand analysis is provided; and  
+FALSE,,,Audit and Accountability,AU,L2,3.3.6,REDUCTION & REPORTING ,a,Determine if an audit record reduction capability that supports on-demand analysis is provided.  
 FALSE,,,Audit and Accountability,AU,L2,3.3.6,REDUCTION & REPORTING ,b,Determine if a report generation capability that supports on-demand reporting is provided. 
-FALSE,,,Audit and Accountability,AU,L2,3.3.7,AUTHORITATIVE TIME SOURCE ,a,Determine if internal system clocks are used to generate time stamps for audit records;  
-FALSE,,,Audit and Accountability,AU,L2,3.3.7,AUTHORITATIVE TIME SOURCE ,b,Determine if an authoritative source with which to compare and synchronize internal system clocks is specified; and  
+FALSE,,,Audit and Accountability,AU,L2,3.3.7,AUTHORITATIVE TIME SOURCE ,a,Determine if internal system clocks are used to generate time stamps for audit records.  
+FALSE,,,Audit and Accountability,AU,L2,3.3.7,AUTHORITATIVE TIME SOURCE ,b,Determine if an authoritative source with which to compare and synchronize internal system clocks is specified.  
 FALSE,,,Audit and Accountability,AU,L2,3.3.7,AUTHORITATIVE TIME SOURCE ,c,Determine if internal system clocks used to generate time stamps for audit records are compared to and synchronized with the specified authoritative time source. 
-FALSE,,,Audit and Accountability,AU,L2,3.3.8,AUDIT PROTECTION ,a,Determine if audit information is protected from unauthorized access;  
-FALSE,,,Audit and Accountability,AU,L2,3.3.8,AUDIT PROTECTION ,b,Determine if audit information is protected from unauthorized modification;  
-FALSE,,,Audit and Accountability,AU,L2,3.3.8,AUDIT PROTECTION ,c,Determine if audit information is protected from unauthorized deletion;  
-FALSE,,,Audit and Accountability,AU,L2,3.3.8,AUDIT PROTECTION ,d,Determine if audit logging tools are protected from unauthorized access;  
-FALSE,,,Audit and Accountability,AU,L2,3.3.8,AUDIT PROTECTION ,e,Determine if audit logging tools are protected from unauthorized modification; and  
+FALSE,,,Audit and Accountability,AU,L2,3.3.8,AUDIT PROTECTION ,a,Determine if audit information is protected from unauthorized access.  
+FALSE,,,Audit and Accountability,AU,L2,3.3.8,AUDIT PROTECTION ,b,Determine if audit information is protected from unauthorized modification.  
+FALSE,,,Audit and Accountability,AU,L2,3.3.8,AUDIT PROTECTION ,c,Determine if audit information is protected from unauthorized deletion.  
+FALSE,,,Audit and Accountability,AU,L2,3.3.8,AUDIT PROTECTION ,d,Determine if audit logging tools are protected from unauthorized access.  
+FALSE,,,Audit and Accountability,AU,L2,3.3.8,AUDIT PROTECTION ,e,Determine if audit logging tools are protected from unauthorized modification.  
 FALSE,,,Audit and Accountability,AU,L2,3.3.8,AUDIT PROTECTION ,f,Determine if audit logging tools are protected from unauthorized deletion. 
-FALSE,,,Audit and Accountability,AU,L2,3.3.9,AUDIT MANAGEMENT ,a,Determine if a subset of privileged users granted access to manage audit logging functionality is defined; and  
+FALSE,,,Audit and Accountability,AU,L2,3.3.9,AUDIT MANAGEMENT ,a,Determine if a subset of privileged users granted access to manage audit logging functionality is defined.  
 FALSE,,,Audit and Accountability,AU,L2,3.3.9,AUDIT MANAGEMENT ,b,Determine if management of audit logging functionality is limited to the defined subset of privileged users. 
-,,,,,L1,,,,
+FALSE,,,Access Control,AC,L1,3.1.1,AUTHORIZED ACCESS CONTROL,a,Determine if authorized users are identified.
+FALSE,,,Access Control,AC,L1,3.1.1,AUTHORIZED ACCESS CONTROL,b,Determine if processes acting on behalf of authorized users are identified.
+FALSE,,,Access Control,AC,L1,3.1.1,AUTHORIZED ACCESS CONTROL,c,Determine if devices (and other systems) authorized to connect to the system are identified.
+FALSE,,,Access Control,AC,L1,3.1.1,AUTHORIZED ACCESS CONTROL,d,Determine if system access is limited to authorized users.
+FALSE,,,Access Control,AC,L1,3.1.1,AUTHORIZED ACCESS CONTROL,e,Determine if system access is limited to processes acting on behalf of authorized users.
+FALSE,,,Access Control,AC,L1,3.1.1,AUTHORIZED ACCESS CONTROL,f,Determine if system access is limited to authorized devices (including other systems).
+FALSE,,,Access Control,AC,L1,3.1.2,TRANSACTION & FUNCTION CONTROL,a,Determine if the types of transactions and functions that authorized users are permitted to execute are defined.
+FALSE,,,Access Control,AC,L1,3.1.2,TRANSACTION & FUNCTION CONTROL,b,Determine if system access is limited to the defined types of transactions and functions for authorized users.
+FALSE,,,Access Control,AC,L1,3.1.2,EXTERNAL CONNECTIONS,a,Determine if connections to external systems are identified.
+FALSE,,,Access Control,AC,L1,3.1.2,EXTERNAL CONNECTIONS,b,Determine if the use of external systems is identified.
+FALSE,,,Access Control,AC,L1,3.1.2,EXTERNAL CONNECTIONS,c,Determine if connections to external systems are verified.
+FALSE,,,Access Control,AC,L1,3.1.2,EXTERNAL CONNECTIONS,d,Determine if the use of external systems is verified.
+FALSE,,,Access Control,AC,L1,3.1.2,EXTERNAL CONNECTIONS,e,Determine if connections to external systems are controlled/limited.
+FALSE,,,Access Control,AC,L1,3.1.2,EXTERNAL CONNECTIONS,f,Determine if the use of external systems is controlled/limited.
+FALSE,,,Access Control,AC,L1,3.1.2,CONTROL PUBLIC INFORMATION,a,Determine if individuals authorized to post or process information on publicly accessible systems are identified.
+FALSE,,,Access Control,AC,L1,3.1.2,CONTROL PUBLIC INFORMATION,b,Determine if procedures to ensure FCI is not posted or processed on publicly accessible systems are identified.
+FALSE,,,Access Control,AC,L1,3.1.2,CONTROL PUBLIC INFORMATION,c,Determine if a review process is in place prior to posting of any content to publicly accessible systems.
+FALSE,,,Access Control,AC,L1,3.1.2,CONTROL PUBLIC INFORMATION,d,Determine if content on publicly accessible systems is reviewed to ensure that it does not include FCI.
+FALSE,,,Access Control,AC,L1,3.1.2,CONTROL PUBLIC INFORMATION,e,Determine if mechanisms are in place to remove and address improper posting of FCI.
+FALSE,,,Access Control,AC,L2,3.1.3,CONTROL CUI FLOW,a,Determine if information flow control policies are defined.
+FALSE,,,Access Control,AC,L2,3.1.3,CONTROL CUI FLOW,b,Determine if methods and enforcement mechanisms for controlling the flow of CUI are defined.
+FALSE,,,Access Control,AC,L2,3.1.3,CONTROL CUI FLOW,c,"Determine if designated sources and destinations (e.g., networks, individuals, and devices) for CUI within the system and between interconnected systems are identified."
+FALSE,,,Access Control,AC,L2,3.1.3,CONTROL CUI FLOW,d,Determine if authorizations for controlling the flow of CUI are defined.
+FALSE,,,Access Control,AC,L2,3.1.3,CONTROL CUI FLOW,e,Determine if approved authorizations for controlling the flow of CUI are enforced.
+FALSE,,,Access Control,AC,L2,3.1.4,SEPARATION OF DUTIES,a,Determine if the duties of individuals requiring separation are defined.
+FALSE,,,Access Control,AC,L2,3.1.4,SEPARATION OF DUTIES,b,Determine if responsibilities for duties that require separation are assigned to separate individuals.
+FALSE,,,Access Control,AC,L2,3.1.4,SEPARATION OF DUTIES,c,Determine if access privileges that enable individuals to exercise the duties that require separation are granted to separate individuals.
+FALSE,,,Access Control,AC,L2,3.1.5,LEAST PRIVILEGE,a,Determine if privileged accounts are identified.
+FALSE,,,Access Control,AC,L2,3.1.5,LEAST PRIVILEGE,b,Determine if access to privileged accounts is authorized in accordance with the principle of least privilege.
+FALSE,,,Access Control,AC,L2,3.1.5,LEAST PRIVILEGE,c,Determine if security functions are identified.
+FALSE,,,Access Control,AC,L2,3.1.5,LEAST PRIVILEGE,d,Determine if access to security functions is authorized in accordance with the principle of least privilege.
+FALSE,,,Access Control,AC,L2,3.1.6,NON-PRIVILEGED ACCOUNT USE,a,Determine if nonsecurity functions are identified.
+FALSE,,,Access Control,AC,L2,3.1.6,NON-PRIVILEGED ACCOUNT USE,b,Determine if users are required to use non-privileged accounts or roles when accessing nonsecurity functions.
+FALSE,,,Access Control,AC,L2,3.1.7,PRIVILEGED FUNCTIONS,a,Determine if privileged functions are defined.
+FALSE,,,Access Control,AC,L2,3.1.7,PRIVILEGED FUNCTIONS,b,Determine if non-privileged users are defined.
+FALSE,,,Access Control,AC,L2,3.1.7,PRIVILEGED FUNCTIONS,c,Determine if non-privileged users are prevented from executing privileged functions.
+FALSE,,,Access Control,AC,L2,3.1.7,PRIVILEGED FUNCTIONS,d,Determine if the execution of privileged functions is captured in audit logs.
+FALSE,,,Access Control,AC,L2,3.1.8,UNSUCCESSFUL LOGON ATTEMPTS,a,Determine if the means of limiting unsuccessful logon attempts is defined.
+FALSE,,,Access Control,AC,L2,3.1.8,UNSUCCESSFUL LOGON ATTEMPTS,b,Determine if the defined means of limiting unsuccessful logon attempts is implemented.
+FALSE,,,Access Control,AC,L2,3.1.9,PRIVACY & SECURITY NOTICES,a,"Determine if privacy and security notices required by CUI-specified rules are identified, consistent, and associated with the specific CUI category."
+FALSE,,,Access Control,AC,L2,3.1.9,PRIVACY & SECURITY NOTICES,b,Determine if privacy and security notices are displayed.
+FALSE,,,Access Control,AC,L2,3.1.1,SESSION LOCK,a,Determine if the period of inactivity after which the system initiates a session lock is defined.
+FALSE,,,Access Control,AC,L2,3.1.1,SESSION LOCK,b,Determine if access to the system and viewing of data is prevented by initiating a session lock after the defined period of inactivity.
+FALSE,,,Access Control,AC,L2,3.1.1,SESSION LOCK,c,Determine if previously visible information is concealed via a pattern-hiding display after the defined period of inactivity.
+FALSE,,,Access Control,AC,L2,3.1.1,SESSION TERMINATION,a,Determine if conditions requiring a user session to terminate are defined.
+FALSE,,,Access Control,AC,L2,3.1.1,SESSION TERMINATION,b,Determine if a user session is automatically terminated after any of the defined conditions occur.
+FALSE,,,Access Control,AC,L2,3.1.1,CONTROL REMOTE ACCESS,a,Determine if remote access sessions are permitted.
+FALSE,,,Access Control,AC,L2,3.1.1,CONTROL REMOTE ACCESS,b,Determine if the types of permitted remote access are identified.
+FALSE,,,Access Control,AC,L2,3.1.1,CONTROL REMOTE ACCESS,c,Determine if remote access sessions are controlled.
+FALSE,,,Access Control,AC,L2,3.1.1,CONTROL REMOTE ACCESS,d,Determine if remote access sessions are monitored.
+FALSE,,,Access Control,AC,L2,3.1.1,REMOTE ACCESS CONFIDENTIALITY,a,Determine if cryptographic mechanisms to protect the confidentiality of remote access sessions are identified.
+FALSE,,,Access Control,AC,L2,3.1.1,REMOTE ACCESS CONFIDENTIALITY,b,Determine if cryptographic mechanisms to protect the confidentiality of remote access sessions are implemented.
+FALSE,,,Access Control,AC,L2,3.1.1,REMOTE ACCESS ROUTING,a,Determine if managed access control points are identified and implemented.
+FALSE,,,Access Control,AC,L2,3.1.1,REMOTE ACCESS ROUTING,b,Determine if remote access is routed through managed network access control points.
+FALSE,,,Access Control,AC,L2,3.1.1,PRIVILEGED REMOTE ACCESS,a,Determine if privileged commands authorized for remote execution are identified.
+FALSE,,,Access Control,AC,L2,3.1.1,PRIVILEGED REMOTE ACCESS,b,Determine if security-relevant information authorized to be accessed remotely is identified.
+FALSE,,,Access Control,AC,L2,3.1.1,PRIVILEGED REMOTE ACCESS,c,Determine if the execution of the identified privileged commands via remote access is authorized.
+FALSE,,,Access Control,AC,L2,3.1.1,PRIVILEGED REMOTE ACCESS,d,Determine if access to the identified security-relevant information via remote access is authorized.
+FALSE,,,Access Control,AC,L2,3.1.1,WIRELESS ACCESS AUTHORIZATION,a,Determine if wireless access points are identified.
+FALSE,,,Access Control,AC,L2,3.1.1,WIRELESS ACCESS AUTHORIZATION,b,Determine if wireless access is authorized prior to allowing such connections.
+FALSE,,,Access Control,AC,L2,3.1.1,WIRELESS ACCESS PROTECTION,a,Determine if wireless access to the system is protected using authentication.
+FALSE,,,Access Control,AC,L2,3.1.1,WIRELESS ACCESS PROTECTION,b,Determine if wireless access to the system is protected using encryption.
+FALSE,,,Access Control,AC,L2,3.1.1,MOBILE DEVICE CONNECTION,a,"Determine if mobile devices that process, store, or transmit CUI are identified."
+FALSE,,,Access Control,AC,L2,3.1.1,MOBILE DEVICE CONNECTION,b,Determine if mobile device connections are authorized.
+FALSE,,,Access Control,AC,L2,3.1.1,MOBILE DEVICE CONNECTION,c,Determine if mobile device connections are monitored and logged.
+FALSE,,,Access Control,AC,L2,3.1.1,ENCRYPT CUI ON MOBILE,a,"Determine if mobile devices and mobile computing platforms that process, store, or transmit CUI are identified."
+FALSE,,,Access Control,AC,L2,3.1.1,ENCRYPT CUI ON MOBILE,b,Determine if encryption is employed to protect CUI on identified mobile devices and mobile computing platforms.
+FALSE,,,Access Control,AC,L2,3.1.2,PORTABLE STORAGE USE,a,Determine if the use of portable storage devices containing CUI on external systems is identified and documented.
+FALSE,,,Access Control,AC,L2,3.1.2,PORTABLE STORAGE USE,b,Determine if limits on the use of portable storage devices containing CUI on external systems are defined.
+FALSE,,,Access Control,AC,L2,3.1.2,PORTABLE STORAGE USE,c,Determine if the use of portable storage devices containing CUI on external systems is limited as defined.
+FALSE,,,Awareness and Training,AT,L2,3.2.1,ROLE-BASED RISK AWARENESS,a,Determine if security risks associated with organizational activities involving CUI are identified.
+FALSE,,,Awareness and Training,AT,L2,3.2.1,ROLE-BASED RISK AWARENESS,b,"Determine if policies, standards, and procedures related to the security of the system are identified."
+FALSE,,,Awareness and Training,AT,L2,3.2.1,ROLE-BASED RISK AWARENESS,c,"Determine if managers, systems administrators, and users of the system are made aware of the security risks associated with their activities."
+FALSE,,,Awareness and Training,AT,L2,3.2.1,ROLE-BASED RISK AWARENESS,d,"Determine if managers, systems administrators, and users of the system are made aware of the applicable policies, standards, and procedures related to the security of the system."
+FALSE,,,Awareness and Training,AT,L2,3.2.2,ROLE-BASED TRAINING,a,"Determine if information security-related duties, roles, and responsibilities are defined."
+FALSE,,,Awareness and Training,AT,L2,3.2.2,ROLE-BASED TRAINING,b,"Determine if information security-related duties, roles, and responsibilities are assigned to designated personnel."
+FALSE,,,Awareness and Training,AT,L2,3.2.2,ROLE-BASED TRAINING,c,Determine if personnel are adequately trained to carry out their assigned information security
+FALSE,,,Awareness and Training,AT,L2,3.2.3,INSIDER THREAT AWARENESS,a,Determine if potential indicators associated with insider threats are identified.
+FALSE,,,Awareness and Training,AT,L2,3.2.3,INSIDER THREAT AWARENESS,b,Determine if security awareness training on recognizing and reporting potential indicators of insider threat is provided to managers and employees.
+FALSE,,,Configuration Management,CM,L2,3.4.1,SYSTEM BASELINING,a,Determine if a baseline configuration is established.
+FALSE,,,Configuration Management,CM,L2,3.4.1,SYSTEM BASELINING,b,"Determine if the baseline configuration includes hardware, software, firmware, and documentation."
+FALSE,,,Configuration Management,CM,L2,3.4.1,SYSTEM BASELINING,c,Determine if the baseline configuration is maintained (reviewed and updated) throughout the system development life cycle.
+FALSE,,,Configuration Management,CM,L2,3.4.1,SYSTEM BASELINING,d,Determine if a system inventory is established.
+FALSE,,,Configuration Management,CM,L2,3.4.1,SYSTEM BASELINING,e,"Determine if the system inventory includes hardware, software, firmware, and documentation."
+FALSE,,,Configuration Management,CM,L2,3.4.1,SYSTEM BASELINING,f,Determine if the inventory is maintained (reviewed and updated) throughout the system development life cycle.
+FALSE,,,Configuration Management,CM,L2,3.4.2,SECURITY CONFIGURATION ENFORCEMENT,a,Determine if security configuration settings for information technology products employed in the system are established and included in the baseline configuration.
+FALSE,,,Configuration Management,CM,L2,3.4.2,SECURITY CONFIGURATION ENFORCEMENT,b,Determine if security configuration settings for information technology products employed in the system are enforced.
+FALSE,,,Configuration Management,CM,L2,3.4.3,SYSTEM CHANGE MANAGEMENT,a,Determine if changes to the system are tracked.
+FALSE,,,Configuration Management,CM,L2,3.4.3,SYSTEM CHANGE MANAGEMENT,b,Determine if changes to the system are reviewed.
+FALSE,,,Configuration Management,CM,L2,3.4.3,SYSTEM CHANGE MANAGEMENT,c,Determine if changes to the system are approved or disapproved.
+FALSE,,,Configuration Management,CM,L2,3.4.3,SYSTEM CHANGE MANAGEMENT,d,Determine if changes to the system are logged.
+FALSE,,,Configuration Management,CM,L2,3.4.4,SECURITY IMPACT ANALYSIS,a,Determine if the security impact of changes to the system is analyzed prior to implementation.
+FALSE,,,Configuration Management,CM,L2,3.4.5,ACCESS RESTRICTIONS FOR CHANGE,a,Determine if physical access restrictions associated with changes to the system are defined.
+FALSE,,,Configuration Management,CM,L2,3.4.5,ACCESS RESTRICTIONS FOR CHANGE,b,Determine if physical access restrictions associated with changes to the system are documented.
+FALSE,,,Configuration Management,CM,L2,3.4.5,ACCESS RESTRICTIONS FOR CHANGE,c,Determine if physical access restrictions associated with changes to the system are approved.
+FALSE,,,Configuration Management,CM,L2,3.4.5,ACCESS RESTRICTIONS FOR CHANGE,d,Determine if physical access restrictions associated with changes to the system are enforced.
+FALSE,,,Configuration Management,CM,L2,3.4.5,ACCESS RESTRICTIONS FOR CHANGE,e,Determine if logical access restrictions associated with changes to the system are defined.
+FALSE,,,Configuration Management,CM,L2,3.4.5,ACCESS RESTRICTIONS FOR CHANGE,f,Determine if logical access restrictions associated with changes to the system are documented.
+FALSE,,,Configuration Management,CM,L2,3.4.5,ACCESS RESTRICTIONS FOR CHANGE,g,Determine if logical access restrictions associated with changes to the system are approved.
+FALSE,,,Configuration Management,CM,L2,3.4.5,ACCESS RESTRICTIONS FOR CHANGE,h,Determine if logical access restrictions associated with changes to the system are enforced.
+FALSE,,,Configuration Management,CM,L2,3.4.6,LEAST FUNCTIONALITY,a,Determine if essential system capabilities are defined based on the principle of least functionality.
+FALSE,,,Configuration Management,CM,L2,3.4.6,LEAST FUNCTIONALITY,b,Determine if the system is configured to provide only the defined essential capabilities.
+FALSE,,,Configuration Management,CM,L2,3.4.7,NONESSENTIAL FUNCTIONALITY,a,Determine if essential programs are defined.
+FALSE,,,Configuration Management,CM,L2,3.4.7,NONESSENTIAL FUNCTIONALITY,b,Determine if the use of nonessential programs is defined.
+FALSE,,,Configuration Management,CM,L2,3.4.7,NONESSENTIAL FUNCTIONALITY,c,"Determine if the use of nonessential programs is restricted, disabled, or prevented as defined."
+FALSE,,,Configuration Management,CM,L2,3.4.7,NONESSENTIAL FUNCTIONALITY,d,Determine if essential functions are defined.
+FALSE,,,Configuration Management,CM,L2,3.4.7,NONESSENTIAL FUNCTIONALITY,e,Determine if the use of nonessential functions is defined.
+FALSE,,,Configuration Management,CM,L2,3.4.7,NONESSENTIAL FUNCTIONALITY,f,"Determine if the use of nonessential functions is restricted, disabled, or prevented as defined."
+FALSE,,,Configuration Management,CM,L2,3.4.7,NONESSENTIAL FUNCTIONALITY,g,Determine if essential ports are defined.
+FALSE,,,Configuration Management,CM,L2,3.4.7,NONESSENTIAL FUNCTIONALITY,h,Determine if the use of nonessential ports is defined.
+FALSE,,,Configuration Management,CM,L2,3.4.7,NONESSENTIAL FUNCTIONALITY,i,"Determine if the use of nonessential ports is restricted, disabled, or prevented as defined."
+FALSE,,,Configuration Management,CM,L2,3.4.7,NONESSENTIAL FUNCTIONALITY,j,Determine if essential protocols are defined.
+FALSE,,,Configuration Management,CM,L2,3.4.7,NONESSENTIAL FUNCTIONALITY,k,Determine if the use of nonessential protocols is defined.
+FALSE,,,Configuration Management,CM,L2,3.4.7,NONESSENTIAL FUNCTIONALITY,l,"Determine if the use of nonessential protocols is restricted, disabled, or prevented as defined."
+FALSE,,,Configuration Management,CM,L2,3.4.7,NONESSENTIAL FUNCTIONALITY,m,Determine if essential services are defined.
+FALSE,,,Configuration Management,CM,L2,3.4.7,NONESSENTIAL FUNCTIONALITY,n,Determine if the use of nonessential services is defined.
+FALSE,,,Configuration Management,CM,L2,3.4.7,NONESSENTIAL FUNCTIONALITY,o,"Determine if the use of nonessential services is restricted, disabled, or prevented as defined."
+FALSE,,,Configuration Management,CM,L2,3.4.8,APPLICATION EXECUTION POLICY,a,Determine if a policy specifying whether whitelisting or blacklisting is to be implemented is specified.
+FALSE,,,Configuration Management,CM,L2,3.4.8,APPLICATION EXECUTION POLICY,b,Determine if the software allowed to execute under whitelisting or denied use under blacklisting is specified.
+FALSE,,,Configuration Management,CM,L2,3.4.8,APPLICATION EXECUTION POLICY,c,Determine if whitelisting to allow the execution of authorized software or blacklisting to prevent the use of unauthorized software is implemented as specified.
+FALSE,,,Configuration Management,CM,L2,3.4.9,USER-INSTALLED SOFTWARE,a,Determine if a policy for controlling the installation of software by users is established.
+FALSE,,,Configuration Management,CM,L2,3.4.9,USER-INSTALLED SOFTWARE,b,Determine if installation of software by users is controlled based on the established policy.
+FALSE,,,Configuration Management,CM,L2,3.4.9,USER-INSTALLED SOFTWARE,c,Determine if installation of software by users is monitored.
+FALSE,,,Identification and Authentication,IA,L1,3.5.1,IDENTIFICATION,a,Determine if system users are identified.
+FALSE,,,Identification and Authentication,IA,L1,3.5.1,IDENTIFICATION,b,Determine if processes acting on behalf of users are identified.
+FALSE,,,Identification and Authentication,IA,L1,3.5.1,IDENTIFICATION,c,Determine if devices accessing the system are identified.
+FALSE,,,Identification and Authentication,IA,L1,3.5.2,AUTHENTICATION,a,Determine if the identity of each user is authenticated or verified as a prerequisite to system access.
+FALSE,,,Identification and Authentication,IA,L1,3.5.2,AUTHENTICATION,b,Determine if the identity of each process acting on behalf of a user is authenticated or verified as a prerequisite to system access.
+FALSE,,,Identification and Authentication,IA,L1,3.5.2,AUTHENTICATION,c,Determine if the identity of each device accessing or connecting to the system is authenticated or verified as a prerequisite to system access.
+FALSE,,,Identification and Authentication,IA,L2,3.5.3,MULTIFACTOR AUTHENTICATION,a,Determine if privileged accounts are identified.
+FALSE,,,Identification and Authentication,IA,L2,3.5.3,MULTIFACTOR AUTHENTICATION,b,Determine if multifactor authentication is implemented for local access to privileged accounts.
+FALSE,,,Identification and Authentication,IA,L2,3.5.3,MULTIFACTOR AUTHENTICATION,c,Determine if multifactor authentication is implemented for network access to privileged accounts.
+FALSE,,,Identification and Authentication,IA,L2,3.5.3,MULTIFACTOR AUTHENTICATION,d,Determine if multifactor authentication is implemented for network access to non-privileged accounts.
+FALSE,,,Identification and Authentication,IA,L2,3.5.4,REPLAY-RESISTANT AUTHENTICATION,a,Determine if replay-resistant authentication mechanisms are implemented for network account access to privileged and non-privileged accounts.
+FALSE,,,Identification and Authentication,IA,L2,3.5.5,IDENTIFIER REUSE,a,Determine if a period within which identifiers cannot be reused is defined.
+FALSE,,,Identification and Authentication,IA,L2,3.5.5,IDENTIFIER REUSE,b,Determine if reuse of identifiers is prevented within the defined period.
+FALSE,,,Identification and Authentication,IA,L2,3.5.6,IDENTIFIER HANDLING,a,Determine if a period of inactivity after which an identifier is disabled is defined.
+FALSE,,,Identification and Authentication,IA,L2,3.5.6,IDENTIFIER HANDLING,b,Determine if identifiers are disabled after the defined period of inactivity.
+FALSE,,,Identification and Authentication,IA,L2,3.5.7,PASSWORD COMPLEXITY,a,Determine if password complexity requirements are defined.
+FALSE,,,Identification and Authentication,IA,L2,3.5.7,PASSWORD COMPLEXITY,b,Determine if password change of character requirements are defined.
+FALSE,,,Identification and Authentication,IA,L2,3.5.7,PASSWORD COMPLEXITY,c,Determine if minimum password complexity requirements as defined are enforced when new passwords are created.
+FALSE,,,Identification and Authentication,IA,L2,3.5.7,PASSWORD COMPLEXITY,d,Determine if minimum password change of character requirements as defined are enforced when new passwords are created.
+FALSE,,,Identification and Authentication,IA,L2,3.5.8,PASSWORD REUSE,a,Determine if the number of generations during which a password cannot be reused is specified.
+FALSE,,,Identification and Authentication,IA,L2,3.5.8,PASSWORD REUSE,b,Determine if reuse of passwords is prohibited during the specified number of generations.
+FALSE,,,Identification and Authentication,IA,L2,3.5.9,TEMPORARY PASSWORDS,a,Determine if an immediate change to a permanent password is required when a temporary password is used for system logon.
+FALSE,,,Identification and Authentication,IA,L2,3.5.1,CRYPTOGRAPHICALLY-PROTECTED PASSWORDS,a,Determine if passwords are cryptographically protected in storage.
+FALSE,,,Identification and Authentication,IA,L2,3.5.1,CRYPTOGRAPHICALLY-PROTECTED PASSWORDS,b,Determine if passwords are cryptographically protected in transit.
+FALSE,,,Identification and Authentication,IA,L2,3.5.1,OBSCURE FEEDBACK,a,Determine if authentication information is obscured during the authentication process.
+FALSE,,,Incident Response,IR,L2,3.6.1,INCIDENT HANDLING,a,Determine if an operational incident-handling capability is established.
+FALSE,,,Incident Response,IR,L2,3.6.1,INCIDENT HANDLING,b,Determine if the operational incident-handling capability includes preparation.
+FALSE,,,Incident Response,IR,L2,3.6.1,INCIDENT HANDLING,c,Determine if the operational incident-handling capability includes detection.
+FALSE,,,Incident Response,IR,L2,3.6.1,INCIDENT HANDLING,d,Determine if the operational incident-handling capability includes analysis.
+FALSE,,,Incident Response,IR,L2,3.6.1,INCIDENT HANDLING,e,Determine if the operational incident-handling capability includes containment.
+FALSE,,,Incident Response,IR,L2,3.6.1,INCIDENT HANDLING,f,Determine if the operational incident-handling capability includes recovery.
+FALSE,,,Incident Response,IR,L2,3.6.1,INCIDENT HANDLING,g,Determine if the operational incident-handling capability includes user response activities.
+FALSE,,,Incident Response,IR,L2,3.6.2,INCIDENT REPORTING,a,Determine if incidents are tracked.
+FALSE,,,Incident Response,IR,L2,3.6.2,INCIDENT REPORTING,b,Determine if incidents are documented.
+FALSE,,,Incident Response,IR,L2,3.6.2,INCIDENT REPORTING,c,Determine if authorities to whom incidents are to be reported are identified.
+FALSE,,,Incident Response,IR,L2,3.6.2,INCIDENT REPORTING,d,Determine if organizational officials to whom incidents are to be reported are identified.
+FALSE,,,Incident Response,IR,L2,3.6.2,INCIDENT REPORTING,e,Determine if identified authorities are notified of incidents.
+FALSE,,,Incident Response,IR,L2,3.6.2,INCIDENT REPORTING,f,Determine if identified organizational officials are notified of incidents.
+FALSE,,,Incident Response,IR,L2,3.6.3,INCIDENT RESPONSE TESTING,a,Determine if the incident response capability is tested.
+FALSE,,,Maintenance,MA,L2,3.7.1,PERFORM MAINTENANCE,a,Determine if system maintenance is performed.
+FALSE,,,Maintenance,MA,L2,3.7.2,SYSTEM MAINTENANCE CONTROL,a,Determine if tools used to conduct system maintenance are controlled.
+FALSE,,,Maintenance,MA,L2,3.7.2,SYSTEM MAINTENANCE CONTROL,b,Determine if techniques used to conduct system maintenance are controlled.
+FALSE,,,Maintenance,MA,L2,3.7.2,SYSTEM MAINTENANCE CONTROL,c,Determine if mechanisms used to conduct system maintenance are controlled.
+FALSE,,,Maintenance,MA,L2,3.7.2,SYSTEM MAINTENANCE CONTROL,d,Determine if personnel used to conduct system maintenance are controlled.
+FALSE,,,Maintenance,MA,L2,3.7.3,EQUIPMENT SANITIZATION,a,Determine if equipment to be removed from organizational spaces for off-site maintenance is sanitized of any CUI.
+FALSE,,,Maintenance,MA,L2,3.7.4,MEDIA INSPECTION,a,"Determine if media containing diagnostic and test programs are checked for malicious code before being used in organizational systems that process, store, or transmit CUI."
+FALSE,,,Maintenance,MA,L2,3.7.5,NONLOCAL MAINTENANCE,a,Determine if multifactor authentication is used to establish nonlocal maintenance sessions via external network connections.
+FALSE,,,Maintenance,MA,L2,3.7.5,NONLOCAL MAINTENANCE,b,Determine if nonlocal maintenance sessions established via external network connections are terminated when nonlocal maintenance is complete.
+FALSE,,,Maintenance,MA,L2,3.7.6,MAINTENANCE PERSONNEL,a,Determine if maintenance personnel without required access authorization are supervised during maintenance activities.
+FALSE,,,Media Protection,MP,L1,3.8.3,MEDIA DISPOSAL,a,Determine if system media containing FCI is sanitized or destroyed before disposal.
+FALSE,,,Media Protection,MP,L1,3.8.3,MEDIA DISPOSAL,b,Determine if system media containing FCI is sanitized before it is released for reuse.
+FALSE,,,Media Protection,MP,L2,3.8.1,MEDIA PROTECTION,a,Determine if paper media containing CUI is physically controlled.
+FALSE,,,Media Protection,MP,L2,3.8.1,MEDIA PROTECTION,b,Determine if digital media containing CUI is physically controlled.
+FALSE,,,Media Protection,MP,L2,3.8.1,MEDIA PROTECTION,c,Determine if paper media containing CUI is securely stored.
+FALSE,,,Media Protection,MP,L2,3.8.1,MEDIA PROTECTION,d,Determine if digital media containing CUI is securely stored.
+FALSE,,,Media Protection,MP,L2,3.8.2,MEDIA ACCESS,a,Determine if access to CUI on system media is limited to authorized users
+FALSE,,,Media Protection,MP,L2,3.8.4,MEDIA MARKINGS,a,Determine if media containing CUI is marked with applicable CUI markings.
+FALSE,,,Media Protection,MP,L2,3.8.4,MEDIA MARKINGS,b,Determine if media containing CUI is marked with distribution limitations.
+FALSE,,,Media Protection,MP,L2,3.8.5,MEDIA ACCOUNTABILITY,a,Determine if access to media containing CUI is controlled.
+FALSE,,,Media Protection,MP,L2,3.8.5,MEDIA ACCOUNTABILITY,b,Determine if accountability for media containing CUI is maintained during transport outside of controlled areas.
+FALSE,,,Media Protection,MP,L2,3.8.6,PORTABLE STORAGE ENCRYPTION,a,Determine if the confidentiality of CUI stored on digital media is protected during transport using cryptographic mechanisms or alternative physical safeguards.
+FALSE,,,Media Protection,MP,L2,3.8.7,REMOVEABLE MEDIA,a,Determine if the use of removable media on system components is controlled.
+FALSE,,,Media Protection,MP,L2,3.8.8,SHARED MEDIA,a,Determine if the use of portable storage devices is prohibited when such devices have no identifiable owner.
+FALSE,,,Media Protection,MP,L2,3.8.9,PROTECT BACKUPS,a,Determine if the confidentiality of backup CUI is protected at storage locations.
+FALSE,,,Personnel Security,PS,L2,3.9.1,SCREEN INDIVIDUALS,a,Determine if individuals are screened prior to authorizing access to organizational systems containing CUI
+FALSE,,,Personnel Security,PS,L2,3.9.2,PERSONNEL ACTIONS,a,Determine if a policy and/or process for terminating system access and any credentials coincident with personnel actions is established.
+FALSE,,,Personnel Security,PS,L2,3.9.2,PERSONNEL ACTIONS,b,Determine if system access and credentials are terminated consistent with personnel actions such as termination or transfer.
+FALSE,,,Personnel Security,PS,L2,3.9.2,PERSONNEL ACTIONS,c,Determine if the system is protected during and after personnel transfer actions.
+FALSE,,,Physical Protection,PE,L1,3.10.,LIMIT PHYSICAL ACCESS,a,Determine if authorized individuals allowed physical access are identified.
+FALSE,,,Physical Protection,PE,L1,3.10.,LIMIT PHYSICAL ACCESS,b,Determine if physical access to organizational systems is limited to authorized individuals.
+FALSE,,,Physical Protection,PE,L1,3.10.,LIMIT PHYSICAL ACCESS,c,Determine if physical access to equipment is limited to authorized individuals.
+FALSE,,,Physical Protection,PE,L1,3.10.,LIMIT PHYSICAL ACCESS,d,Determine if physical access to operating environments is limited to authorized individuals.
+FALSE,,,Physical Protection,PE,L1,3.10.,ESCORT VISITORS,a,Determine if visitors are escorted.
+FALSE,,,Physical Protection,PE,L1,3.10.,ESCORT VISITORS,b,Determine if visitor activity is monitored.
+FALSE,,,Physical Protection,PE,L1,3.10.,PHYSICAL ACCESS LOGS,a,Determine if audit logs of physical access are maintained.
+FALSE,,,Physical Protection,PE,L1,3.10.,MANAGE PHYSICAL ACCESS,a,Determine if physical access devices are identified.
+FALSE,,,Physical Protection,PE,L1,3.10.,MANAGE PHYSICAL ACCESS,b,Determine if physical access devices are controlled.
+FALSE,,,Physical Protection,PE,L1,3.10.,MANAGE PHYSICAL ACCESS,c,Determine if physical access devices are managed.
+FALSE,,,Physical Protection,PE,L2,3.10.,MONITOR FACILITY,a,Determine if the physical facility where organizational systems reside is protected.
+FALSE,,,Physical Protection,PE,L2,3.10.,MONITOR FACILITY,b,Determine if the support infrastructure for organizational systems is protected.
+FALSE,,,Physical Protection,PE,L2,3.10.,MONITOR FACILITY,c,Determine if the physical facility where organizational systems reside is monitored.
+FALSE,,,Physical Protection,PE,L2,3.10.,MONITOR FACILITY,d,Determine if the support infrastructure for organizational systems is monitored.
+FALSE,,,Physical Protection,PE,L2,3.10.,ALTERNATIVE WORK SITES,a,Determine if safeguarding measures for CUI are defined for alternate work sites.
+FALSE,,,Physical Protection,PE,L2,3.10.,ALTERNATIVE WORK SITES,b,Determine if safeguarding measures for CUI are enforced for alternate work sites.
+FALSE,,,Risk Assessment,RA,L2,3.11.,RISK ASSESSMENTS,a,"Determine if the frequency to assess risk to organizational operations, organizational assets, and individuals is defined."
+FALSE,,,Risk Assessment,RA,L2,3.11.,RISK ASSESSMENTS,b,"Determine if risk to organizational operations, organizational assets, and individuals resulting from the operation of an organizational system that processes, stores, or transmits CUI is assessed with the defined frequency."
+FALSE,,,Risk Assessment,RA,L2,3.11.,VULNERABILITY SCAN,a,Determine if the frequency to scan for vulnerabilities in organizational systems and applications is defined.
+FALSE,,,Risk Assessment,RA,L2,3.11.,VULNERABILITY SCAN,b,Determine if vulnerability scans are performed on organizational systems with the defined frequency.
+FALSE,,,Risk Assessment,RA,L2,3.11.,VULNERABILITY SCAN,c,Determine if vulnerability scans are performed on applications with the defined frequency.
+FALSE,,,Risk Assessment,RA,L2,3.11.,VULNERABILITY SCAN,d,Determine if vulnerability scans are performed on organizational systems when new vulnerabilities are identified.
+FALSE,,,Risk Assessment,RA,L2,3.11.,VULNERABILITY SCAN,e,Determine if vulnerability scans are performed on applications when new vulnerabilities are identified.
+FALSE,,,Risk Assessment,RA,L2,3.11.,VULNERABILITY REMEDIATION,a,Determine if vulnerabilities are identified.
+FALSE,,,Risk Assessment,RA,L2,3.11.,VULNERABILITY REMEDIATION,b,Determine if vulnerabilities are remediated in accordance with risk assessments.
+FALSE,,,Security Assessment,CA,L2,3.12.,SECURITY CONTROL ASSESSMENT,a,Determine if the frequency of security control assessments is defined.
+FALSE,,,Security Assessment,CA,L2,3.12.,SECURITY CONTROL ASSESSMENT,b,Determine if security controls are assessed with the defined frequency to determine if the controls are effective in their application.
+FALSE,,,Security Assessment,CA,L2,3.12.,PLAN OF ACTION,a,Determine if deficiencies and vulnerabilities to be addressed by the plan of action are identified.
+FALSE,,,Security Assessment,CA,L2,3.12.,PLAN OF ACTION,b,Determine if a plan of action is developed to correct identified deficiencies and reduce or eliminate identified vulnerabilities.
+FALSE,,,Security Assessment,CA,L2,3.12.,PLAN OF ACTION,c,Determine if the plan of action is implemented to correct identified deficiencies and reduce or eliminate identified vulnerabilities.
+FALSE,,,Security Assessment,CA,L2,3.12.,SECURITY CONTROL MONITORING,a,Determine if security controls are monitored on an ongoing basis to ensure the continued effectiveness of those controls.
+FALSE,,,Security Assessment,CA,L2,3.12.,SYSTEM SECURITY PLAN,a,Determine if a system security plan is developed.
+FALSE,,,Security Assessment,CA,L2,3.12.,SYSTEM SECURITY PLAN,b,Determine if the system boundary is described and documented in the system security plan.
+FALSE,,,Security Assessment,CA,L2,3.12.,SYSTEM SECURITY PLAN,c,Determine if the system environment of operation is described and documented in the system security plan.
+FALSE,,,Security Assessment,CA,L2,3.12.,SYSTEM SECURITY PLAN,d,Determine if the security requirements identified and approved by the designated authority as non-applicable are identified.
+FALSE,,,Security Assessment,CA,L2,3.12.,SYSTEM SECURITY PLAN,e,Determine if the method of security requirement implementation is described and documented in the system security plan.
+FALSE,,,Security Assessment,CA,L2,3.12.,SYSTEM SECURITY PLAN,f,Determine if the relationship with or connection to other systems is described and documented in the system security plan.
+FALSE,,,Security Assessment,CA,L2,3.12.,SYSTEM SECURITY PLAN,g,Determine if the frequency to update the system security plan is defined.
+FALSE,,,Security Assessment,CA,L2,3.12.,SYSTEM SECURITY PLAN,h,Determine if system security plan is updated with the defined frequency.
+FALSE,,,System and Communications Protection,SC,L1,3.13.,BOUNDARY PROTECTION,a,Determine if the external system boundary is defined.
+FALSE,,,System and Communications Protection,SC,L1,3.13.,BOUNDARY PROTECTION,b,Determine if key internal system boundaries are defined.
+FALSE,,,System and Communications Protection,SC,L1,3.13.,BOUNDARY PROTECTION,c,Determine if communications are monitored at the external system boundary.
+FALSE,,,System and Communications Protection,SC,L1,3.13.,BOUNDARY PROTECTION,d,Determine if communications are monitored at key internal boundaries.
+FALSE,,,System and Communications Protection,SC,L1,3.13.,BOUNDARY PROTECTION,e,Determine if communications are controlled at the external system boundary.
+FALSE,,,System and Communications Protection,SC,L1,3.13.,BOUNDARY PROTECTION,f,Determine if communications are controlled at key internal boundaries.
+FALSE,,,System and Communications Protection,SC,L1,3.13.,BOUNDARY PROTECTION,g,Determine if communications are protected at the external system boundary.
+FALSE,,,System and Communications Protection,SC,L1,3.13.,BOUNDARY PROTECTION,h,Determine if communications are protected at key internal boundaries.
+FALSE,,,System and Communications Protection,SC,L1,3.13.,PUBLIC-ACCESS SYSTEM SEPARATION,a,Determine if publicly accessible system components are identified.
+FALSE,,,System and Communications Protection,SC,L1,3.13.,PUBLIC-ACCESS SYSTEM SEPARATION,b,Determine if subnetworks for publicly accessible system components are physically or logically separated from internal networks.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,SECURITY ENGINEERING,a,Determine if architectural designs that promote effective information security are identified.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,SECURITY ENGINEERING,b,Determine if software development techniques that promote effective information security are identified.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,SECURITY ENGINEERING,c,Determine if systems engineering principles that promote effective information security are identified.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,SECURITY ENGINEERING,d,Determine if identified architectural designs that promote effective information security are employed.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,SECURITY ENGINEERING,e,Determine if identified software development techniques that promote effective information security are employed.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,SECURITY ENGINEERING,f,Determine if identified systems engineering principles that promote effective information security are employed.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,ROLE SEPARATION,a,Determine if user functionality is identified.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,ROLE SEPARATION,b,Determine if system management functionality is identified.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,ROLE SEPARATION,c,Determine if user functionality is separated from system management functionality.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,SHARED RESOURCE CONTROL,a,Determine if unauthorized and unintended information transfer via shared system resources is prevented.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,NETWORK COMMUNICATION BY EXCEPTION,a,Determine if network communications traffic is denied by default.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,NETWORK COMMUNICATION BY EXCEPTION,b,Determine if network communications traffic is allowed by exception.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,SPLIT TUNNELING,a,"Determine if remote devices are prevented from simultaneously establishing non-remote connections with the system and communicating via some other connection to resources in external networks (i.e., split tunneling)."
+FALSE,,,System and Communications Protection,SC,L2,3.13.,DATA IN TRANSIT,a,Determine if cryptographic mechanisms intended to prevent unauthorized disclosure of CUI are identified.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,DATA IN TRANSIT,b,Determine if alternative physical safeguards intended to prevent unauthorized disclosure of CUI are identified.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,DATA IN TRANSIT,c,Determine if either cryptographic mechanisms or alternative physical safeguards are implemented to prevent unauthorized disclosure of CUI during transmission.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,CONNECTIONS TERMINATION,a,Determine if a period of inactivity to terminate network connections associated with communications sessions is defined.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,CONNECTIONS TERMINATION,b,Determine if network connections associated with communications sessions are terminated at the end of the sessions.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,CONNECTIONS TERMINATION,c,Determine if network connections associated with communications sessions are terminated after the defined period of inactivity.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,KEY MANAGEMENT,a,Determine if cryptographic keys are established whenever cryptography is employed.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,KEY MANAGEMENT,b,Determine if cryptographic keys are managed whenever cryptography is employed.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,CUI ENCRYPTION,a,Determine if FIPS-validated cryptography is employed to protect the confidentiality of CUI.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,COLLABORATIVE DEVICE CONTROL,a,Determine if collaborative computing devices are identified.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,COLLABORATIVE DEVICE CONTROL,b,Determine if collaborative computing devices provide indication to users of devices in use.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,COLLABORATIVE DEVICE CONTROL,c,Determine if remote activation of collaborative computing devices is prohibited.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,MOBILE CODE,a,Determine if use of mobile code is controlled.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,MOBILE CODE,b,Determine if use of mobile code is monitored.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,VOICE OVER INTERNET PROTOCOL,a,Determine if use of Voice over Internet Protocol (VoIP) technologies is controlled.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,VOICE OVER INTERNET PROTOCOL,b,Determine if use of Voice over Internet Protocol (VoIP) technologies is monitored.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,COMMUNICATIONS AUTHENTICITY,a,Determine if the authenticity of communications sessions is protected.
+FALSE,,,System and Communications Protection,SC,L2,3.13.,DATA AT REST,a,Determine if the confidentiality of CUI at rest is protected.
+FALSE,,,System and Information Integrity,SI,L1,3.14.,FLAW REMEDIATION,a,Determine if the time within which to identify system flaws is specified.
+FALSE,,,System and Information Integrity,SI,L1,3.14.,FLAW REMEDIATION,b,Determine if system flaws are identified within the specified time frame.
+FALSE,,,System and Information Integrity,SI,L1,3.14.,FLAW REMEDIATION,c,Determine if the time within which to report system flaws is specified.
+FALSE,,,System and Information Integrity,SI,L1,3.14.,FLAW REMEDIATION,d,Determine if system flaws are reported within the specified time frame.
+FALSE,,,System and Information Integrity,SI,L1,3.14.,FLAW REMEDIATION,e,Determine if the time within which to correct system flaws is specified.
+FALSE,,,System and Information Integrity,SI,L1,3.14.,FLAW REMEDIATION,f,Determine if system flaws are corrected within the specified time frame.
+FALSE,,,System and Information Integrity,SI,L1,3.14.,MALICIOUS CODE PROTECTION,a,Determine if designated locations for malicious code protection are identified.
+FALSE,,,System and Information Integrity,SI,L1,3.14.,MALICIOUS CODE PROTECTION,b,Determine if protection from malicious code at designated locations is provided.
+FALSE,,,System and Information Integrity,SI,L1,3.14.,UPDATE MALICIOUS CODE PROTECTION,a,Determine if malicious code protection mechanisms are updated when new releases are available.
+FALSE,,,System and Information Integrity,SI,L1,3.14.,SYSTEM & FILE SCANNING,a,Determine if the frequency for malicious code scans is defined.
+FALSE,,,System and Information Integrity,SI,L1,3.14.,SYSTEM & FILE SCANNING,b,Determine if malicious code scans are performed with the defined frequency.
+FALSE,,,System and Information Integrity,SI,L1,3.14.,SYSTEM & FILE SCANNING,c,"Determine if real-time malicious code scans of files from external sources as files are downloaded, opened, or executed are performed."
+FALSE,,,System and Information Integrity,SI,L2,3.14.,SECURITY ALERTS & ADVISORIES,a,Determine if response actions to system security alerts and advisories are identified.
+FALSE,,,System and Information Integrity,SI,L2,3.14.,SECURITY ALERTS & ADVISORIES,b,Determine if system security alerts and advisories are monitored.
+FALSE,,,System and Information Integrity,SI,L2,3.14.,SECURITY ALERTS & ADVISORIES,c,Determine if actions in response to system security alerts and advisories are taken.
+FALSE,,,System and Information Integrity,SI,L2,3.14.,MONITOR COMMUNICATIONS FOR ATTACKS,a,Determine if the system is monitored to detect attacks and indicators of potential attacks.
+FALSE,,,System and Information Integrity,SI,L2,3.14.,MONITOR COMMUNICATIONS FOR ATTACKS,b,Determine if inbound communications traffic is monitored to detect attacks and indicators of potential attacks.
+FALSE,,,System and Information Integrity,SI,L2,3.14.,MONITOR COMMUNICATIONS FOR ATTACKS,c,Determine if outbound communications traffic is monitored to detect attacks and indicators of potential attacks.
+FALSE,,,System and Information Integrity,SI,L2,3.14.,IDENTIFY UNAUTHORIZED USE,a,Determine if authorized use of the system is defined.
+FALSE,,,System and Information Integrity,SI,L2,3.14.,IDENTIFY UNAUTHORIZED USE,b,Determine if unauthorized use of the system is identified.
